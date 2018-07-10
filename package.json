@@ -1,20 +1,21 @@
-
 {
-  "name": "react-native-genie-for-taobao-module",
+  "name": "genie-for-taobao-module",
   "version": "1.0.0",
-  "description": "",
+  "description": "genie-for-taobao-module",
+  "homepage": "https://github.com/zousandian/genie-for-taobao-module",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zousandian/genie-for-taobao-module.git"
   },
   "keywords": [
-    "react-native"
+    "react-component",
+    "react-native",
+    "ios"
   ],
-  "author": "",
-  "license": "",
   "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
-
-  }
+    "react-native": ">=0.47"
+  },
+  "author": " ",
+  "license": "MIT"
 }
